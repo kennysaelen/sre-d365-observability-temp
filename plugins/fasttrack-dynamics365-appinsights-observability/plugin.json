@@ -1,0 +1,8 @@
+{
+  "name": "fasttrack-dynamics365-appinsights-observability",
+  "description": "Dynamics 365 Application Insights and Log Analytics observability skills for Azure SRE Agent.",
+  "version": "1.0.0",
+  "skills": [
+    "skills/"
+  ]
+}
